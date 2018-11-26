@@ -1502,16 +1502,16 @@
         },
         {
             "name": "symfony/finder",
-            "version": "v3.4.15",
+            "version": "v3.4.19",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/finder.git",
-                "reference": "8a84fcb207451df0013b2c74cbbf1b62d47b999a"
+                "reference": "6cf2be5cbd0e87aa35c01f80ae0bf40b6798e442"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/finder/zipball/8a84fcb207451df0013b2c74cbbf1b62d47b999a",
-                "reference": "8a84fcb207451df0013b2c74cbbf1b62d47b999a",
+                "url": "https://api.github.com/repos/symfony/finder/zipball/6cf2be5cbd0e87aa35c01f80ae0bf40b6798e442",
+                "reference": "6cf2be5cbd0e87aa35c01f80ae0bf40b6798e442",
                 "shasum": ""
             },
             "require": {
@@ -1547,7 +1547,7 @@
             ],
             "description": "Symfony Finder Component",
             "homepage": "https://symfony.com",
-            "time": "2018-07-26T11:19:56+00:00"
+            "time": "2018-11-11T19:48:54+00:00"
         },
         {
             "name": "symfony/polyfill-ctype",
